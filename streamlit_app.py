@@ -11,7 +11,7 @@ dataframe = pd.read_csv(
     "WK1_Airbnb_Amsterdam_listings_proj_solution.csv",
     names=[
         "Airbnb Listing ID",
-        "Price (in HKD)",
+        "Price",
         "Latitude",
         "Longitude",
         "Meters from chosen location",
